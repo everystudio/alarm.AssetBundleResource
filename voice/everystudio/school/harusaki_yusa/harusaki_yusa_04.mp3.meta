@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5d9d61ff7433aa940bc6a3bc621be162
+timeCreated: 1454585046
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: assets/assetbundleresource/voice/everystudio/school/harusaki_yusa/harusaki_yusa_04.unity3d
+  assetBundleVariant: 

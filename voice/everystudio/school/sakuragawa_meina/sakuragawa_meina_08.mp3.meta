@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7c8d63582d5b09e4999aca3731056cb8
+timeCreated: 1454585052
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: assets/assetbundleresource/voice/everystudio/school/sakuragawa_meina/sakuragawa_meina_08.unity3d
+  assetBundleVariant: 

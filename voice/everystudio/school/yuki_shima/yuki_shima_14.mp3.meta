@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 82cbc8d8d8e94c6428433054c3f21c2f
+timeCreated: 1454585053
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: assets/assetbundleresource/voice/everystudio/school/yuki_shima/yuki_shima_14.unity3d
+  assetBundleVariant: 
